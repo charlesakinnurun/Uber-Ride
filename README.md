@@ -265,6 +265,7 @@ fig.legend(loc="upper right", bbox_to_anchor=(1, 1), bbox_transform=ax1.transAxe
 plt.tight_layout() 
 plt.show()
 ```
+![question5](/assets/question5.png)
 
 #### Which Pickup Location has the highest number of No Driver Found rides?
 ```python
